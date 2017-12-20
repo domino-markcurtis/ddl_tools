@@ -1,4 +1,5 @@
 # Grab diags from server
+# Note you'll need to wget the sjk jar first!
 
 # Init any vars
 DATE=$(date --iso-8601=seconds)
